@@ -29,7 +29,7 @@ SECRET_KEY = '2uf7$fyr%8#_by26=*z5dl^7lm^_3^(p2nlp0y0zm%4@lw77%*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [manishoo7.pythonanywhere.com,],
 
 
 # Application definition
